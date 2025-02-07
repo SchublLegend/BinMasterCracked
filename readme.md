@@ -19,7 +19,4 @@ Releasing the source code feels like a final act of desperation, a way to salvag
 
 As we bid farewell to the software that we poured so much of ourselves into, we can't help but feel a sense of sadness and loss. But we take comfort in the knowledge that our work will live on, and that others will be able to benefit from the passion and dedication that we poured into it.
 
-****
-happy april fools on behalf of the binmaster team
 
-to make up for the ping, you can use the code "aprilfools" for 10% off any item in the store, valid until april 5th
