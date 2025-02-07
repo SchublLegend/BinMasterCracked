@@ -2,7 +2,7 @@
 ****
 
 ### What you will find here:
-- The BinMaster mod(https://github.com/SchublLegend/BinMasterCracked/releases) without auth
+- The BinMaster [mod](https://github.com/SchublLegend/BinMasterCracked/releases) without auth
 - BinMaster client source code
 - BinMaster server-side code
 - BinMaster pageflipper source
