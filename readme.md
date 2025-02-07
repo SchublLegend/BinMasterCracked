@@ -2,6 +2,7 @@
 ****
 
 ### What you will find here:
+- The BinMaster mod without auth
 - BinMaster client source code
 - BinMaster server-side code
 - BinMaster pageflipper source
